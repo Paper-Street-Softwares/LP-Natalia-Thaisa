@@ -26,33 +26,33 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ESPECIALIDADES",
+    "title": "Nossas Áreas de Atuação",
+    "subtitle": "Especializados em direito cível, família, sucessório e agronegócio, oferecendo soluções completas e personalizadas.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Cível",
+      "subtitle": "Contratos, cobranças e indenizações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito de Família",
+      "subtitle": "Alimentos, guarda de menores e divórcio.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Sucessório",
+      "subtitle": "Inventário, testamentos e partilhas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito do Agronegócio",
+      "subtitle": "Arrendamento, crédito rural e assistência ao produtor.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
