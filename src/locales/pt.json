@@ -1,8 +1,8 @@
 {
   "infos": {
-    "adress": "A_Definir <br/> A_Definir",
+    "adress": "Rua Arthur Thomas, nº 942, <br/> Sobreloja 03, Zona 01,  <br/> Maringá - PR, CEP: 87013-250 ",
     "adressSecundario": "A_Definir",
-    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> 9h às 18h",
     "expedienteSecundario": "A_Definir",
     "obs": "A_Definir"
   },
@@ -17,42 +17,42 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADA EM MARINGÁ - PR",
+    "title": "Justiça que não espera <span class=\"text-primary font-bold\">ninguém</span>",
+    "subtitle": "Atuamos com estratégia e precisão para proteger seus direitos e garantir resultados reais",
+    "ctaButtonText": "Saiba como alcançamos resultados",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento presencial e online para todo Brasil"
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ESPECIALIDADES",
+    "title": "Nossas Áreas de Atuação",
+    "subtitle": "Especializados em direito cível, família, sucessório e agronegócio, oferecendo soluções completas e personalizadas.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Cível",
+      "subtitle": "Contratos, cobranças e indenizações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito de Família",
+      "subtitle": "Alimentos, guarda de menores e divórcio.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Sucessório",
+      "subtitle": "Inventário, testamentos e partilhas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito do Agronegócio",
+      "subtitle": "Arrendamento, crédito rural e assistência ao produtor.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -83,13 +83,13 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É A DRA. NATÁLIA BITTENCOURT",
+    "title": "Minha trajetória",
+    "subtitle": "Atendimento jurídico próximo, ético e dedicado para cada cliente com atenção única.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "a_Definir",
-    "ctaButtonAriaLabel": "",
+    "paragraph": "Nosso escritório nasceu com a missão de oferecer um atendimento jurídico próximo, acessível e comprometido com resultados. Acreditamos que a advocacia deve ir além das formalidades, colocando a ética, a clareza e a dedicação a serviço de cada cliente.",
+    "modal": "Nosso escritório nasceu com a missão de oferecer um atendimento jurídico próximo, acessível e comprometido com resultados. Acreditamos que a advocacia deve ir além das formalidades, colocando a ética, a clareza e a dedicação a serviço de cada cliente. <br/> <br/> Sabemos que cada pessoa possui uma realidade única. Por isso, nosso atendimento é humanizado, valorizando a escuta, o respeito e a adaptação às necessidades específicas de cada caso. <br/> <br/> Desde o início, nossa história tem sido construída com base na confiança e na busca constante por soluções práticas e eficazes, sempre priorizando os interesses de nossos clientes e garantindo resultados concretos. <br/> <br/>",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "A_Definir",
