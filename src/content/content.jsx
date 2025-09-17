@@ -53,7 +53,7 @@ export const infos = {
   name: "Dra. Natália Bittencourt",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "A_Definir", // Sem "www"
+  domain: "contatonbadv.com", // Sem "www"
   phone: {
     ddd: "44",
     firstPart: "98817", // Apenas os 5 primeiros números (incluindo o 9)
