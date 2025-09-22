@@ -19,7 +19,7 @@
   "hero": {
     "miniTag": "ADVOGADA EM MARINGÁ - PR",
     "title": "Justiça que não espera <span class=\"text-primary font-bold\">ninguém</span>",
-    "subtitle": "Atuamos com estratégia e precisão para proteger seus direitos e garantir resultados reais",
+    "subtitle": "Atuamos com estratégia e precisão para proteger seus direitos e buscar as melhores soluções para o seu caso.",
     "ctaButtonText": "Saiba como alcançamos resultados",
     "obsHero": {
       "text": "Atendimento presencial e online para todo Brasil"
@@ -27,7 +27,7 @@
   },
   "features": {
     "miniTag": "ESPECIALIDADES",
-    "title": "Nossas Áreas de Atuação",
+    "title": "Áreas de Atuação",
     "subtitle": "Especializados em direito cível, família, sucessório e agronegócio, oferecendo soluções completas e personalizadas.",
     "card1": {
       "title": "Direito Cível",
@@ -87,8 +87,8 @@
     "title": "Minha trajetória",
     "subtitle": "Atendimento jurídico próximo, ético e dedicado para cada cliente com atenção única.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "Nosso escritório nasceu com a missão de oferecer um atendimento jurídico próximo, acessível e comprometido com resultados. Acreditamos que a advocacia deve ir além das formalidades, colocando a ética, a clareza e a dedicação a serviço de cada cliente.",
-    "modal": "Nosso escritório nasceu com a missão de oferecer um atendimento jurídico próximo, acessível e comprometido com resultados. Acreditamos que a advocacia deve ir além das formalidades, colocando a ética, a clareza e a dedicação a serviço de cada cliente. <br/> <br/> Sabemos que cada pessoa possui uma realidade única. Por isso, nosso atendimento é humanizado, valorizando a escuta, o respeito e a adaptação às necessidades específicas de cada caso. <br/> <br/> Desde o início, nossa história tem sido construída com base na confiança e na busca constante por soluções práticas e eficazes, sempre priorizando os interesses de nossos clientes e garantindo resultados concretos. <br/> <br/>",
+    "paragraph": "Nosso escritório nasceu com a missão de oferecer um atendimento jurídico próximo, acessível e comprometido com a defesa dos direitos de cada cliente. Acreditamos que a advocacia deve ir além das formalidades, colocando a ética, a clareza e a dedicação a serviço de quem nos procura.",
+    "modal": "Nosso escritório nasceu com a missão de oferecer um atendimento jurídico próximo, acessível e comprometido com a defesa dos direitos de cada cliente. Acreditamos que a advocacia deve ir além das formalidades, colocando a ética, a clareza e a dedicação a serviço de quem nos procura. <br/> <br/> Sabemos que cada pessoa possui uma realidade única. Por isso, nosso atendimento é humanizado, valorizando a escuta, o respeito e a adaptação às necessidades específicas de cada caso.<br/> <br/> Desde o início, nossa história tem sido construída com base na confiança e na busca constante por soluções práticas e eficazes, sempre priorizando os interesses de nossos clientes.",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
@@ -170,7 +170,7 @@
     "copyrightLine": "{{year}} - {{name}} - Todos os direitos reservados",
     "footerDivulgacaoText": "Gostaria de ter um site como este? Clique aqui",
     "midSectionName": "Até mais",
-    "footerText": "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
+    "footerText": "Colocamo-nos à disposição para atender suas necessidades jurídicas com seriedade e dedicação.",
     "footerSocialText": "A_Definir",
     "footerNavegacaoText": "NAVEGAÇÃO"
   }
