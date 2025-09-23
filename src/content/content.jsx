@@ -56,8 +56,8 @@ export const infos = {
   domain: "contatonbadv.com", // Sem "www"
   phone: {
     ddd: "44",
-    firstPart: "98817", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "4985", // Apenas os 4 últimos números
+    firstPart: "99927", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "8505", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
